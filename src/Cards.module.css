@@ -1,0 +1,16 @@
+.formula{
+    width: 50px;
+    display: block;
+position: relative;
+}
+.input{
+    position: absolute;
+    top: -80px;
+}
+.submit{
+    width: 100px;
+}
+.pickLitera{
+    height: 30px;
+    width: 200px;
+}
